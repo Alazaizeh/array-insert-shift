@@ -1,0 +1,25 @@
+{
+  "name": "array-insert-shift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omx302/array-insert-shift.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omx302/array-insert-shift/issues"
+  },
+  "homepage": "https://github.com/Omx302/array-insert-shift#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.0.6"
+  }
+}
